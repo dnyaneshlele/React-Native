@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "FinTrack",
+    "slug": "Expense-Tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Splash.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/Splash.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.dnyaneshl.fintrack"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "42dedb90-14a2-43de-9a07-89b907bb6605"
+      }
+    },
+    "owner": "dnyaneshl"
+  }
+}
