@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Emotion-Wheel",
+    "slug": "Emotion-Wheel",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Solid.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/Solid.png",
+      "resizeMode": "contain ",
+      "backgroundColor": "#ffffff"  
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.dnyaneshl.EmotionWheel"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "67530b93-f681-454c-9149-7b314739706d"
+      }
+    }
+  }
+}
